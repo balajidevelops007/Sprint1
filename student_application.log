@@ -1,0 +1,6 @@
+2026-10-03 14:44:22,276 - INFO - Student application started
+2026-10-03 14:44:22,276 - DEBUG - Student name: Balaji
+2026-10-03 14:44:22,281 - DEBUG - Python marks: 85
+2026-10-03 14:44:22,282 - DEBUG - SQL marks: 80
+2026-10-03 14:44:22,283 - INFO - Total marks calculated successfully
+2026-10-03 14:44:22,284 - INFO - Student application completed
